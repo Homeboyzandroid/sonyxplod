@@ -1,0 +1,112 @@
+@-webkit-viewport   {
+    width: device-width; 
+}
+@-moz-viewport      { 
+    width: device-width;
+}
+@-ms-viewport       { 
+    width: device-width; 
+}
+@-o-viewport        { 
+    width: device-width; 
+}
+@viewport           { 
+    width: device-width; 
+}
+/*.navbar navbar-inverse{
+    width: auto;
+    height: auto;
+    background: #000000;
+    
+}*/
+
+.container-fluid{
+height:auto;
+width: auto;
+   
+}
+
+
+#first{   
+   width: auto;
+    height: 40%;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size:100% auto;
+    
+}
+
+
+#first img{
+    width: 100%;
+    height: 40%;
+    display: block;
+    
+}
+
+
+
+#cont2{
+height: 15%;
+width: auto;
+background-color: #F1F1F1;
+border: 2px solid black;
+    padding-top: 2%;
+    padding-bottom: 1%;
+    
+}
+
+
+#bottom_divs {
+width: auto;
+height: 50%;
+background: url(assets/images/sony_slice_5.png) center center;
+background-size: 100%;
+    
+}
+#cont3{
+width: auto;
+height: 10%;
+border: 2px solid black;
+    padding-left: 2%;
+        padding-right:2%;
+    
+}
+#cont4{
+height: 20%;
+width: auto;
+    border: 2px solid black;
+    
+    
+}
+#cont5{
+width: auto;
+height: 15%;
+    border: 2px solid black;
+}
+#cont3 h1{
+ padding-left: 2%;
+padding-right:2%;   
+color: white;
+
+}
+#cont3 li{
+color: white;
+text-align:left;
+padding-left: 2%;
+padding-right:2%
+}
+#cont5 h2{
+ padding-left: 2%;
+padding-right:2%;   
+color: white;
+
+}
+#cont5 li{
+color: white;
+text-align:left;
+padding-left: 2%;
+padding-right:2%
+}
+
