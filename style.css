@@ -51,9 +51,8 @@ width: auto;
 height: 15%;
 width: auto;
 background-color: #F1F1F1;
-border: 2px solid black;
-    padding-top: 2%;
     padding-bottom: 1%;
+    padding-top: 1%
     
 }
 
@@ -68,22 +67,17 @@ background-size: 100%;
 #cont3{
 width: auto;
 height: 10%;
-border: 2px solid black;
-    padding-left: 2%;
-        padding-right:2%;
-    
+  
 }
-#cont4{
+ #cont4{
 height: 20%;
 width: auto;
-    border: 2px solid black;
-    
-    
+
 }
 #cont5{
 width: auto;
 height: 15%;
-    border: 2px solid black;
+   
 }
 #cont3 h1{
  padding-left: 2%;
@@ -109,4 +103,20 @@ text-align:left;
 padding-left: 2%;
 padding-right:2%
 }
+
+.tableholder{
+width:auto;
+background-color: #F1F1F1;
+padding-top: 2%;
+padding-bottom: 1%;
+/*margin-left: 2%;*/
+
+margin-top: 2%;
+margin-bottom: 2%;        
+    
+
+}
+
+
+
 
