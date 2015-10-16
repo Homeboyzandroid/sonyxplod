@@ -91,7 +91,7 @@ height: 15%;
  padding-left: 2%;
 padding-right:2%;   
 color: white;
-font-family:TeX Gyre Adventor;
+font-family:'TeX Gyre Adventor', Bold;
 
 }
 #cont3 li{
@@ -99,13 +99,13 @@ color: white;
 text-align:left;
 padding-left: 2%;
 padding-right:2%;
-font-family:TeX Gyre Adventor;
+font-family:'TeX Gyre Adventor';
 }
 #cont5 h2{
  padding-left: 2%;
 padding-right:2%;   
 color: white;
-    font-family:TeX Gyre Adventor;
+    font-family:'TeX Gyre Adventor' Italic;
 
 }
 #cont5 li{
@@ -113,7 +113,7 @@ color: white;
 text-align:left;
 padding-left: 2%;
 padding-right:2%;
-    font-family:TeX Gyre Adventor;
+    font-family:'TeX Gyre Adventor' Bold;
 }
 
 .tableholder{
