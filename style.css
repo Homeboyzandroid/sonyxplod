@@ -13,6 +13,13 @@
 @viewport           { 
     width: device-width; 
 }
+@font-face {
+    font-family: TeX Gyre Adventor;
+    src:url(texgyreadventor-italic.otf);
+    src:url(texgyreadventor-bold.otf);
+    src:url(texgyreadventor-regular.otf);
+}
+
 /*.navbar navbar-inverse{
     width: auto;
     height: auto;
@@ -84,25 +91,29 @@ height: 15%;
  padding-left: 2%;
 padding-right:2%;   
 color: white;
+font-family:TeX Gyre Adventor;
 
 }
 #cont3 li{
 color: white;
 text-align:left;
 padding-left: 2%;
-padding-right:2%
+padding-right:2%;
+font-family:TeX Gyre Adventor;
 }
 #cont5 h2{
  padding-left: 2%;
 padding-right:2%;   
 color: white;
+    font-family:TeX Gyre Adventor;
 
 }
 #cont5 li{
 color: white;
 text-align:left;
 padding-left: 2%;
-padding-right:2%
+padding-right:2%;
+    font-family:TeX Gyre Adventor;
 }
 
 .tableholder{
