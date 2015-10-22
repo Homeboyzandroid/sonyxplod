@@ -7,8 +7,8 @@
     <title>SONY XPLOD</title>
     <!-- Bootstrap -->
     <link rel="stylesheet" type="text/css" href="style.css">
-    <link href="css/bootstrap.min.css" rel="stylesheet">  
-   
+    <link href="css/bootstrap.min.css" rel="stylesheet">
+
 </head>
     <body>
        <!-- <nav class="navbar navbar-inverse">
@@ -62,7 +62,7 @@
                                     <input type="text" class="form-control" id="installerphone" name="installerphone" placeholder="Enter installer phone no." required/>
                                 </div>
                             </div>
-                            
+
                     </div>
                     <div class=" col-md-6 col-xs-12">
                         <div class="form-group">
@@ -74,11 +74,12 @@
                                            <option value="matatu">Matatu </option>
                                            <option value="benz">Benz</option>
                                            <option value="jaguar">Jaguar</option>
-                                           <option value="passat">Passat</option> </select>
+                                           <option value="passat">Passat</option>
+                                    </select>
                                 </div>
                             </div>
                         </div>
-                        <label class="control-label col-md-4" for="Sound">Sound Installed</label>   
+                        <label class="control-label col-md-4" for="Sound">Sound Installed</label>
                             <div class="col-md-8">
                                 <div class="col-md-6 col-xs-12" >
                                     <div class="checkbox">
@@ -101,7 +102,7 @@
                                         </label>
                                    </div>
                                 </div>
-                            
+
                                 <div class="col-md-6 col-xs-12">
                                     <div class="checkbox">
                                         <label for="checkboxes-0">
@@ -120,13 +121,13 @@
                                               Sony Sub-woofer
                                         </label>
                                    </div>
-                                </div> 
+                                </div>
                             </div>
                     </div>
                     <div class="form-group  col-md-12">
                             <button id="singlebutton" name="singlebutton" class="btn btn-primary  pull-right">Submit</button>
                     </div>
-                    
+
                 </form>
             </div>
 
@@ -228,7 +229,7 @@
                             <li>Each vehicle entered will get 5 complimentary tickets</li>
                         </ul>
                         <h2>Terms and Conditions</h2>
-                        <ul> 
+                        <ul>
                             <li> Participants have togo online and register www.sonyxplodchallenge.co.ke</li>
                             <li> The kshs 10,000/= cashback will be reimbursed via mpesa on the day of the event by bringing the Car installed with MEX-XB100BT.</li>
                             <li>The contest starts from October 1, 2015 untill November 21st 2015</li>
@@ -243,4 +244,4 @@
             <!--End Of Content Section-->
         </div>
     </body>
-</html> 
+</html>
